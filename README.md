@@ -2,7 +2,7 @@
 
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1240.png)
 
-[Live Demo](https://catgrills.github.io/Eden/) of <i>Nano</i>.
+[Live Demo](https://catgrills.github.io/Nano/) of <i>Nano</i>.
 
 About
 -------------------------------
