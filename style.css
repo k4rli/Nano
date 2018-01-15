@@ -1,0 +1,155 @@
+* {
+	font-family: "Roboto", "KFhimaji" !important;
+	outline: none;
+}
+
+html,
+body {
+	height: 100% !important;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+body {
+	background: #232426;
+	border-top: 15px solid #60646D;
+}
+
+a {
+	color: #FFF !important;
+	font-size: 2.2vw  !important;
+	font-stretch: condensed;
+	font-weight: bold !important;
+	text-decoration: none;
+}
+
+#container {
+	height: 100%;
+	width: 100%;
+}
+
+#container #searchbox {
+	background: #3E4651 !important;
+	border: none;
+	color: #FFF;
+	font-size: 14pt;
+	font-stretch: condensed;
+	height: 30px;
+	width: 100%;
+	padding:  .9vw 1.1vw; 
+	position: fixed;
+}
+
+#container #mascot {
+	background: no-repeat url("render/render_02.png") center;
+	background-color: #444B54;
+	background-size: 75% auto;
+	border-radius: 50%;
+	box-shadow: 0 28px 16px -26px rgba(0, 0, 0, .8);
+	height: 18vw !important;
+	width: 18vw !important;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: auto;
+}
+
+#container .boxes {
+	border-radius: 50%;
+	box-shadow: 0 28px 16px -26px rgba(0, 0, 0, .8);
+	height: 6vw !important;
+	width: 6vw !important;
+	line-height: 6vw;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+}
+
+#container .subboxes {
+	border-radius: 50%;
+	height: inherit !important;
+	width: inherit !important;	
+}
+
+#container #one.boxes {
+	background: no-repeat url("background/background_01.png") left !important;
+	background-size: cover !important;
+	left: 8vw;
+}
+
+#container #one .subboxes {
+	background: rgba(27,188,155,0.7) !important;
+}
+
+#container #two.boxes {
+	background: no-repeat url("background/background_02.png") center !important;
+	background-size: cover !important;
+	left: 18vw;
+}
+
+#container #two .subboxes {
+	background: rgba(15,97,119,0.7) !important;
+}
+
+#container #three.boxes {
+	background: no-repeat url("background/background_03.png") center !important;
+	background-size: cover !important;
+	left: 28vw;
+}
+
+#container #three .subboxes {
+	background: rgba(96,100,109,0.7) !important;
+}
+
+#container #four.boxes {
+	background: no-repeat url("background/background_04.png") center 25% !important;
+	background-size: cover !important;
+	right: 28vw;
+}
+
+#container #four .subboxes {
+	background: rgba(149,49,99,0.7) !important;
+}
+
+#container #five.boxes {
+	background: no-repeat url("background/background_05.png") center 20% !important;
+	background-size: cover !important;
+	right: 18vw;
+}
+
+#container #five .subboxes {
+	background: rgba(252,166,95,0.7) !important;
+}
+
+#container #six.boxes {
+	background: no-repeat url("background/background_06.png") center !important;
+	background-size: cover !important;
+	right: 8vw;
+}
+
+#container #six .subboxes {
+	background: rgba(204,145,148,0.7) !important;
+}
+
+#container .dots {
+	background: #60646D;
+	border-radius: 50%;
+	height: .8vw;
+	width: .8vw;
+	position: fixed;
+}
+
+#container #bottom_left.dots {
+	bottom: 30px;
+	left: 30px;
+}
+
+#container #bottom_right.dots {
+	bottom: 30px;
+	right: 30px;
+}
