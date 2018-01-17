@@ -1,6 +1,6 @@
 # Nano
 
-![screenshot](https://s1.gifyu.com/images/Screenshot-1240.png)
+![screenshot](https://s1.gifyu.com/images/Screenshot-1245.png)
 
 [Live Demo](https://catgrills.github.io/Nano/) of <i>Nano</i>.
 
